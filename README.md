@@ -3,7 +3,7 @@
 ### I'm a graduate student from DYP College of Enginnering,Akurdi
 
 - 🔭 I’m currently working on improving coding skills.
-- 🌱 I’m currently learning Web Development and expertise in DSA and Machine Learning.
+- 🌱 I’m currently learning Web Development and expertise in DSA 
 - 📚 I love to play and watch Cricket.
 - 📫 How to reach me at **tejaslute24@gmail.com**
 
